@@ -20,6 +20,10 @@ body {
 
 /** Globales **/
 
+img {
+    max-width: 100%;
+}
+
 .contenedor {
     max-width: 1200px;
     margin: 0 auto;
